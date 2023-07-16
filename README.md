@@ -25,7 +25,7 @@
 <div> 
   <a href = "mailto:ryanguilhermetbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![wakatime](https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg)](https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988)
+<a href="https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988"><img src="https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg" alt="Total time coded since Apr 18 2023" /></a> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-morais/)](https://www.linkedin.com/in/ryan-morais/) <a href = "mailto:ryanguilhermetbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 💁 My name is **Ryan Guilherme**, I'm from Ceará, Brazil 🇧🇷 <br />
 
@@ -53,6 +53,7 @@
 ---
 
 ## 🕙 Wakatime Stats
+(since April 18, 2023)
 
 <a href="https://wakatime.com/@ryanguilherme">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanguilherme&layout=compact&theme=dark&range=all_time&hide_title=true&hide_border=true" alt="Ryan Guilherme's wakatime stats" />
