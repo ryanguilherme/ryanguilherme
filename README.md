@@ -1,32 +1,5 @@
-### Hi, i'm Ryan 👋
-
- <div>
-  <a href="https://github.com/ryanguilherme">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ryanguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanguilherme&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ryan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Ryan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Ryan-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
- 
-</div>
-
-##
-
-
-<div> 
-  <a href = "mailto:ryanguilhermetbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988"><img src="https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg" alt="Total time coded since Apr 18 2023" /></a> 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-morais/)](https://www.linkedin.com/in/ryan-morais/) <a href = "mailto:ryanguilhermetbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+[![wakatime](https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg?style=for-the-badge)](https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-morais/)](https://www.linkedin.com/in/ryan-morais/)
 💁 My name is **Ryan Guilherme**, I'm from Ceará, Brazil 🇧🇷 <br />
 
 ---
@@ -48,7 +21,6 @@
 [![Ryan Guilherme GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?hide_border=true&username=ryanguilherme&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=12)](https://github.com/ryanguilherme/github-readme-stats)
 
 [![Ryan Guilherme's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanguilherme&theme=github-green-purple&fire=DD2727)](https://github-readme-streak-stats.herokuapp.com/demo/)
-[![Ryan Guilherme's GitHub stats](https://api.githubtrends.io/user/svg/ryanguilherme/repos?time_range=one_year&group=private&theme=dark&include_private=true&loc_metric=changed)](https://github.com/avgupta456/github-trends)
 
 ---
 
