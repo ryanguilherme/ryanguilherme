@@ -7,6 +7,10 @@
 
 ---
 
+🔭 Currently pursuing a Bachelor's degree in Computer Engineering at Federal University of Ceará 🇧🇷, Quixadá Campus
+
+🔭 Technical degree in Computer Networks from Federal Institute of Education, Science and Technology (IFCE) 🇧🇷, Boa Viagem Campus
+
 ## 🧰 Things I code with
 | Skill | Technologies |
 |-------|--------------|
