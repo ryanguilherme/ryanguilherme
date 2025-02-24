@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Ryan 🇧🇷
 
 [![wakatime](https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg?style=for-the-badge)](https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-morais/](https://www.linkedin.com/in/gmnryan/)](https://www.linkedin.com/in/gmnryan/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-morais/)](https://www.linkedin.com/in/gmnryan/)
 
 💁 My name is **Ryan Guilherme**, I'm from Ceará, Brazil 🇧🇷 <br />
 
