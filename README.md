@@ -33,7 +33,6 @@
 ---
 
 ## 🕙 Wakatime Stats
-(since April 18, 2023)
 
 <a href="https://wakatime.com/@ryanguilherme">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanguilherme&layout=compact&theme=dark&range=all_time&hide_title=true&hide_border=true" alt="Ryan Guilherme's wakatime stats" />
