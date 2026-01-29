@@ -1,3 +1,4 @@
+<!--
 # 👋 Hi there! I'm Ryan 🇧🇷
 
 [![wakatime](https://wakatime.com/badge/user/6bcc6590-e227-434f-9f65-2699e7341988.svg?style=for-the-badge)](https://wakatime.com/@6bcc6590-e227-434f-9f65-2699e7341988)
@@ -38,4 +39,4 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ryanguilherme&layout=compact&theme=dark&range=all_time&hide_title=true&hide_border=true" alt="Ryan Guilherme's wakatime stats" />
 </a>
 
-
+-->
